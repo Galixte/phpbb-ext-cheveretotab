@@ -1,5 +1,9 @@
-# cheveretotab
-This extention for phpBB 3.1.x, 3.2.x & 3.3.x adds a new tab on posting page to access to your Chevereto hosting website.
+# phpbb-ext-cheveretotab
+Extension phpBB 3.1, 3.2 & 3.3 - 
+
+Description: This extention for phpBB 3.1.x, 3.2.x & 3.3.x adds a new tab on posting page to access to your Chevereto hosting website.
+
+Official page: http://www.ezcom-fr.com/viewtopic.php?f=11&t=1084
 
 ## Quick Install
 You can install this on the latest release of phpBB 3.1.3 by following the steps below:
