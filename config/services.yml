@@ -1,0 +1,11 @@
+services:
+    ezcom.cheveretotab.listener:
+        class: ezcom\cheveretotab\event\listener
+        arguments:
+            - '@auth'
+            - '@config'
+            - '@template'
+            - '@user'
+            - '@request'
+        tags:
+            - {name: event.listener}

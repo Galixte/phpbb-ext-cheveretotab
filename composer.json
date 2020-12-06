@@ -1,0 +1,39 @@
+{
+    "name": "ezcom/cheveretotab",
+    "type": "phpbb-extension",
+    "description": "This extention for phpBB 3.1.x, 3.2.x & 3.3.x adds a new tab on posting page to access to your Chevereto hosting website.",
+    "homepage": "https://git.ezcom-fr.com",
+    "version": "1.0.0",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "picture",
+        "hosting",
+        "image"
+    ],
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Communauté EzCom",
+            "homepage": "https://www.ezcom-fr.com",
+            "username": "Raphaël M. aka Galixte",
+            "email": "contact@ezcom-fr.com",
+            "role": "Integrator"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "phpbb/phpbb": ">=3.1.12"
+    },
+    "extra": {
+        "display-name": "Chevereto tab on posting page",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.12"
+        },
+		"version-check": {
+		    "host": "",
+			"directory": "",
+			"filename": ""
+		}
+	}
+}
